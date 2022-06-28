@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá👋
 
 Eu sou o Diego Fagundes, sou um programador Front End, atualmente estou aprendendo e criando projetos com:
 <br>
